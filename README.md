@@ -5,6 +5,10 @@
 </p>
 <p align="center">(source: Ken Perlin)</p>
 
+## Screenshots
+![566-1](https://user-images.githubusercontent.com/33616958/189788175-65a7976c-2dcc-4265-872d-dec8674f5bf7.gif)
+
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
