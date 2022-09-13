@@ -6,6 +6,8 @@
 <p align="center">(source: Ken Perlin)</p>
 
 ## Screenshots
+I use a 3D perlin noise to animate the vertex position and use worley noise in frag shader to set the color.
+
 ![566-1](https://user-images.githubusercontent.com/33616958/189788175-65a7976c-2dcc-4265-872d-dec8674f5bf7.gif)
 
 
