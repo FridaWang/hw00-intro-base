@@ -90,9 +90,9 @@ function main() {
     }
 
     renderer.render(camera, lambert, [
-      // icosphere,
+      icosphere,
       // square,
-      cube,
+      // cube,
     ]);
     stats.end();
 
