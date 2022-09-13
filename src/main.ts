@@ -14,13 +14,13 @@ import Cube from './geometry/cube';
 const controls = {
   tesselations: 5,
   'Load Scene': loadScene, // A function pointer, essentially
-  color: [ 255, 0, 0, 255 ], // RGB with alpha
+  color: [ 255, 255, 0, 255 ], // RGB with alpha
 };
 
 let icosphere: Icosphere;
 let square: Square;
 let prevTesselations: number = 5;
-let preGeoColor: number[] = [255, 0, 0, 255];
+let preGeoColor: number[] = [255, 255, 0, 255];
 let cube: Cube;
 let time: number = 0;
 
